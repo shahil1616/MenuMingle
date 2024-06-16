@@ -1,0 +1,22 @@
+{
+  "name": "menu_mingle",
+  "version": "1.0.0",
+  "description": "\"Project\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahil1616/MenuMingle.git"
+  },
+  "author": "Shahil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahil1616/MenuMingle/issues"
+  },
+  "homepage": "https://github.com/shahil1616/MenuMingle#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
